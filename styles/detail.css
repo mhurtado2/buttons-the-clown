@@ -1,0 +1,111 @@
+
+img {
+    border-radius: 50%;
+}
+
+.clowns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.hire {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 10px 10px 10px;
+}
+
+.button {
+    margin: 50px, 50px, 50px, 50px;
+    background-color: rgb(68, 59, 130);
+    color: White;
+    line-height: 35px;
+    width: 150px;
+}
+
+.clowns {
+    margin: 50px, 50px, 50px, 50px;
+    background-color: rgb(18, 104, 79);
+    color: rgb(178, 24, 24);
+    line-height: 25px;
+    width: 150px;
+}
+
+
+.request_li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.request__delete {
+    margin: 50px, 50px, 50px, 50px;
+    background-color: rgb(142, 50, 192);
+    color: White;
+    line-height: 25px;
+    width: 150px;  
+}
+
+.request__deny {
+    margin: 50px, 50px, 50px, 50px;
+    background-color: rgb(204, 74, 76);
+    color: White;
+    line-height: 25px;
+    width: 150px;  
+}
+
+.request {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Table {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(98, 112, 107);
+    width: 500px;
+    align-self: center;
+}
+
+.space {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 500px;
+}
+
+
+.done {
+    background-color: rgb(232, 87, 87);
+    width: 500px;
+}
+
+.color {
+    color: rgb(75, 235, 57);
+    width: 500px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
